@@ -28,7 +28,7 @@ int main(){
 		cout<<arr[i]<<"\t";
 	}
 	bubble(arr,s);
-	cout<<"\nAfter applying bubble sort\n";
+	cout<<"\nAfter Applying Bubble sort\n";
 	for(int i=0;i<s;i++){
 		cout<<arr[i]<<"\t";
 	}
