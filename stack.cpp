@@ -6,10 +6,8 @@
 using namespace std;
 
 int main() {
-  // Stack create karna
   stack<int> st;
 
-  // Push operation: elements ko stack mein daalna
   st.push(34);
   st.push(4);
   st.push(12);
