@@ -58,7 +58,7 @@ int main(){
 	
 	
 	divide(arr,0,s-1);
-	cout<<"\n";
+	cout<<" \n";
 	print(arr,s);
 	
 }
